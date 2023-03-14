@@ -10,7 +10,6 @@ https://steam-plus-theta.vercel.app/
 ## 아키텍처 
 ![224586419-ba9b63b4-f84f-4805-a45a-227aea379096](https://user-images.githubusercontent.com/117566375/224879939-09870be0-fe5f-4732-87b4-503fcfedcc26.png)
 ## 🎲기술적 의사 결정
-
 | 사용기술 | 기술 설명 |
 | --- | --- |
 | recoil | 리코일은 매우 간단한 코드로 상태를 관리할 수 있습니다. 리덕스와 비교해 상태를 업데이트하기 위해 액션 타입, 액션 생성자, 리듀서를 작성할 필요가 없으며, 상태 업데이트 로직을 작성할 때도 상태 객체 자체를 직접 수정할 수 있었습니다. |
@@ -19,7 +18,8 @@ https://steam-plus-theta.vercel.app/
 | json-server, glitch | db.json 파일을 사용하면 데이터베이스 서버를 구축하지 않아도 되고 Glitch에서는 개발자가 손쉽게 프로젝트를 공유하고, 팀원과 함께 작업할 수 있기 때문에 개발 프로세스가 편리해집니다. |
 
 ## 맡은 역할 및 기능 
+| 메인페이지 | 로그인 | 커뮤니티 |
+| --------|------|--------|
+|<img width="400" alt="메인1" src="https://user-images.githubusercontent.com/117566375/224884772-e39ee3cb-135c-4d26-a4b5-597fdf5eaaa6.png">| <img width="400" alt="로그인 2" src="https://user-images.githubusercontent.com/117566375/224884864-5de2595c-7b27-4501-ae35-6cdb02442f59.png">|<img width="400" alt="커뮤니티 5" src="https://user-images.githubusercontent.com/117566375/224884909-a7640c6f-c160-4d58-98e0-98116df3d0fd.png">|
 
 ## 🔧 트러블 슈팅
-
-## 
