@@ -59,6 +59,3 @@ https://steam-plus-theta.vercel.app/
  <img width="1440" alt="커뮤니티 5" src="https://user-images.githubusercontent.com/117566375/224887607-31298859-9f8f-460d-863a-eb153445e223.png">
 
 <br/>
-## 트러블 슈팅 🔧 
-
-<br/>
