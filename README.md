@@ -1,16 +1,28 @@
 # Steam Plus 🎮 
 오직 스팀게임을 하는 유저들을 위한 스팀전용 실시간 소통 커뮤니티
+
+<br/>
+
 ## 사이트주소 🖥 
 https://steam-plus-theta.vercel.app/
+
+<br/>
+
 ## 프로젝트 실행방법
 `npm start`
+
+<br/>
 
 ## 페이지소개 ❤️
 ![224586337-350a3cf1-abc1-464e-acbc-3fe5134789dc](https://user-images.githubusercontent.com/117566375/224879663-9061a4a1-1522-4a4e-aff3-4f965c481a73.png)
 ![224586342-3c373968-0385-42b4-b380-0cc4d9388ec4](https://user-images.githubusercontent.com/117566375/224879904-3ad81c8c-c964-4752-a3cc-8fa0d4888815.png)
 
+<br/>
+
 ## 아키텍처 🤝
 ![224586419-ba9b63b4-f84f-4805-a45a-227aea379096](https://user-images.githubusercontent.com/117566375/224879939-09870be0-fe5f-4732-87b4-503fcfedcc26.png)
+
+<br/>
 
 ## 기술적 의사 결정 🎲
 | 사용기술 | 기술 설명 |
@@ -27,11 +39,15 @@ https://steam-plus-theta.vercel.app/
 - Steam API를 이용하여 게임의 정보(게임동영상, 게임이미지, 게임타이틀 등)를 메인페이지에 출력
 <img width="1440" alt="메인1" src="https://user-images.githubusercontent.com/117566375/224887543-dac3340d-5bf8-4197-a77c-4c21b11cd87e.png">
 
+<br/>
+
 ## 로그인
 - Steam API를 이용하여 스팀아이디와 연동하여 별도의 회원가입 없이 서비스 로그인기능 구현
 - Steam API를 이용하여 프로필 정보(프로필닉네임, 프로필이미지, 최근활동게임)를 출력
 - 사용자의 상태(온라인 ,오프라인)조절 및 로그아웃 기능 구현
  <img width="1440" alt="로그인3" src="https://user-images.githubusercontent.com/117566375/224887573-cb126b53-d575-4d92-b7d6-9269f0174088.png">
+
+<br/>
 
 ## 커뮤니티
 - 게시글 작성
@@ -42,4 +58,7 @@ https://steam-plus-theta.vercel.app/
 - 카테고리 설정 및 실시간 조회수 및 작성시간 등 기능 구현
  <img width="1440" alt="커뮤니티 5" src="https://user-images.githubusercontent.com/117566375/224887607-31298859-9f8f-460d-863a-eb153445e223.png">
 
+<br/>
 ## 트러블 슈팅 🔧 
+
+<br/>
