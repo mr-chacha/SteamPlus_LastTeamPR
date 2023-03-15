@@ -4,7 +4,12 @@
 <br/>
 
 ## 사이트주소 🖥 
-https://steam-plus-theta.vercel.app/
+[스팀플러스 링크](https://steam-plus-theta.vercel.app/)
+
+<br/>
+
+# 개발일지 🎮 
+자세한 코드리뷰는 [개발일지](https://velog.io/@c9926)에 있습니다 :)
 
 <br/>
 
