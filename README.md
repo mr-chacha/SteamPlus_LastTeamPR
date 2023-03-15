@@ -35,13 +35,13 @@ https://steam-plus-theta.vercel.app/
 <br/>
 
 # 역할 및 기능 😃
-## 메인페이지  
+## 1️⃣메인페이지  
 - Steam API를 이용하여 게임의 정보(게임동영상, 게임이미지, 게임타이틀 등)를 메인페이지에 출력
 <img width="1440" alt="메인1" src="https://user-images.githubusercontent.com/117566375/224887543-dac3340d-5bf8-4197-a77c-4c21b11cd87e.png">
 
 <br/>
 
-## 로그인
+## 2️⃣로그인
 - Steam API를 이용하여 스팀아이디와 연동하여 별도의 회원가입 없이 서비스 로그인기능 구현
 - Steam API를 이용하여 프로필 정보(프로필닉네임, 프로필이미지, 최근활동게임)를 출력
 - 사용자의 상태(온라인 ,오프라인)조절 및 로그아웃 기능 구현
@@ -49,7 +49,7 @@ https://steam-plus-theta.vercel.app/
 
 <br/>
 
-## 커뮤니티
+## 3️⃣커뮤니티
 - 게시글 작성
 - 게시글 수정
 - 게시글 삭제
